@@ -1,0 +1,171 @@
+id,hotel,zone,service,provider,cost_var,ingres_brut,demanda,calidad,cost_fijo,coste_total,beneficio,group_id
+V001,Malaga,Iberica,breakfast,Iber Morning Catering,178.88,967.5,86,2,110,288.88,678.62,breakfast_Malaga
+V002,Malaga,Iberica,breakfast,Sol and desayuno select,556.92,2646,126,3,300,856.92,1789.08,breakfast_Malaga
+V003,Malaga,Iberica,breakfast,Iberian Grand Brekfast,1318.2,5616,156,5,507,1825.2,3790.8,breakfast_Malaga
+V004,Malaga,Iberica,dinner,Iberdin Basic,752.0500000000001,3738,89,2,463,1215.0500000000002,2522.95,dinner_Malaga
+V005,Malaga,Iberica,dinner,Taberna Select iBERICA ,845,4056,52,4,390,1235,2821,dinner_Malaga
+V006,Malaga,Iberica,dinner,Gran mesa iberica premimum,3737.5,16500,125,5,1438,5175.5,11324.5,dinner_Malaga
+V007,Madrid,Iberica,breakfast,Iber Morning Catering,275.2,967.5,86,2,110,385.2,582.3,breakfast_Madrid
+V008,Madrid,Iberica,breakfast,Sol and desayuno select,856.8,2646,126,3,300,1156.8,1489.2,breakfast_Madrid
+V009,Madrid,Iberica,breakfast,Iberian Grand Brekfast,2028,5616,156,5,507,2535,3081,breakfast_Madrid
+V010,Madrid,Iberica,dinner,Iberdin Basic,1157,3738,89,2,463,1620,2118,dinner_Madrid
+V011,Madrid,Iberica,dinner,Taberna Select iBERICA ,1300,4056,52,4,390,1690,2366,dinner_Madrid
+V012,Madrid,Iberica,dinner,Gran mesa iberica premimum,5750,16500,125,5,1438,7188,9312,dinner_Madrid
+V013,Barcelona,Iberica,breakfast,Iber Morning Catering,275.2,967.5,86,2,110,385.2,582.3,breakfast_Barcelona
+V014,Barcelona,Iberica,breakfast,Sol and desayuno select,856.8,2646,126,3,300,1156.8,1489.2,breakfast_Barcelona
+V015,Barcelona,Iberica,breakfast,Iberian Grand Brekfast,2028,5616,156,5,507,2535,3081,breakfast_Barcelona
+V016,Barcelona,Iberica,dinner,Iberdin Basic,1157,3738,89,2,463,1620,2118,dinner_Barcelona
+V017,Barcelona,Iberica,dinner,Taberna Select iBERICA ,1300,4056,52,4,390,1690,2366,dinner_Barcelona
+V018,Barcelona,Iberica,dinner,Gran mesa iberica premimum,5750,16500,125,5,1438,7188,9312,dinner_Barcelona
+V019,Mallorca,Iberica,breakfast,Iber Morning Catering,275.2,967.5,86,2,110,385.2,582.3,breakfast_Mallorca
+V020,Mallorca,Iberica,breakfast,Sol and desayuno select,856.8,2646,126,3,300,1156.8,1489.2,breakfast_Mallorca
+V021,Mallorca,Iberica,breakfast,Iberian Grand Brekfast,2028,5616,156,5,507,2535,3081,breakfast_Mallorca
+V022,Mallorca,Iberica,dinner,Iberdin Basic,1157,3738,89,2,463,1620,2118,dinner_Mallorca
+V023,Mallorca,Iberica,dinner,Taberna Select iBERICA ,1300,4056,52,4,390,1690,2366,dinner_Mallorca
+V024,Mallorca,Iberica,dinner,Gran mesa iberica premimum,5750,16500,125,5,1438,7188,9312,dinner_Mallorca
+V025,Lisboa,Iberica,breakfast,Iber Morning Catering,275.2,967.5,86,2,110,385.2,582.3,breakfast_Lisboa
+V026,Lisboa,Iberica,breakfast,Sol and desayuno select,856.8,2646,126,3,300,1156.8,1489.2,breakfast_Lisboa
+V027,Lisboa,Iberica,breakfast,Iberian Grand Brekfast,2028,5616,156,5,507,2535,3081,breakfast_Lisboa
+V028,Lisboa,Iberica,dinner,Iberdin Basic,1157,3738,89,2,463,1620,2118,dinner_Lisboa
+V029,Lisboa,Iberica,dinner,Taberna Select iBERICA ,1300,4056,52,4,390,1690,2366,dinner_Lisboa
+V030,Lisboa,Iberica,dinner,Gran mesa iberica premimum,5750,16500,125,5,1438,7188,9312,dinner_Lisboa
+V031,Albufeira,Iberica,breakfast,Iber Morning Catering,275.2,967.5,86,2,110,385.2,582.3,breakfast_Albufeira
+V032,Albufeira,Iberica,breakfast,Sol and desayuno select,856.8,2646,126,3,300,1156.8,1489.2,breakfast_Albufeira
+V033,Albufeira,Iberica,breakfast,Iberian Grand Brekfast,2028,5616,156,5,507,2535,3081,breakfast_Albufeira
+V034,Albufeira,Iberica,dinner,Iberdin Basic,1157,3738,89,2,463,1620,2118,dinner_Albufeira
+V035,Albufeira,Iberica,dinner,Taberna Select iBERICA ,1300,4056,52,4,390,1690,2366,dinner_Albufeira
+V036,Albufeira,Iberica,dinner,Gran mesa iberica premimum,5750,16500,125,5,1438,7188,9312,dinner_Albufeira
+V037,Marseille,Med_Occidental,breakfast,Petit Dejeuner Express,254.6,854.25,67,2,102,356.6,497.65,breakfast_Marseille
+V038,Marseille,Med_Occidental,breakfast,Franco italian Breakfast,915,2836.5,122,4,275,1190,1646.5,breakfast_Marseille
+V039,Marseille,Med_Occidental,breakfast,Le gran Matin,2494,6708,172,5,624,3118,3590,breakfast_Marseille
+V040,Marseille,Med_Occidental,dinner,Brasserie Basic,840,2688,56,2,336,1176,1512,dinner_Marseille
+V041,Marseille,Med_Occidental,dinner,Saveurs Franco-Italiennes,3108,9657,111,4,932,4040,5617,dinner_Marseille
+V042,Marseille,Med_Occidental,dinner,Haute Gastronomie Méd,8216,23226,158,5,2054,10270,12956,dinner_Marseille
+V043,Lyon,Med_Occidental,breakfast,Petit Dejeuner Express,254.6,854.25,67,2,102,356.6,212.9,breakfast_Lyon
+V044,Lyon,Med_Occidental,breakfast,Franco italian Breakfast,915,2836.5,122,4,275,1190,701,breakfast_Lyon
+V045,Lyon,Med_Occidental,breakfast,Le gran Matin,2494,6708,172,5,624,3118,1354,breakfast_Lyon
+V046,Lyon,Med_Occidental,dinner,Brasserie Basic,840,2688,56,2,336,1176,1512,dinner_Lyon
+V047,Lyon,Med_Occidental,dinner,Saveurs Franco-Italiennes,3108,9657,111,4,932,4040,5617,dinner_Lyon
+V048,Lyon,Med_Occidental,dinner,Haute Gastronomie Méd,8216,23226,158,5,2054,10270,12956,dinner_Lyon
+V049,Paris,Med_Occidental,breakfast,Petit Dejeuner Express,254.6,854.25,67,2,102,356.6,212.9,breakfast_Paris
+V050,Paris,Med_Occidental,breakfast,Franco italian Breakfast,915,2836.5,122,4,275,1190,701,breakfast_Paris
+V051,Paris,Med_Occidental,breakfast,Le gran Matin,2494,6708,172,5,624,3118,1354,breakfast_Paris
+V052,Paris,Med_Occidental,dinner,Brasserie Basic,840,2688,56,2,336,1176,1512,dinner_Paris
+V053,Paris,Med_Occidental,dinner,Saveurs Franco-Italiennes,3108,9657,111,4,932,4040,5617,dinner_Paris
+V054,Paris,Med_Occidental,dinner,Haute Gastronomie Méd,8216,23226,158,5,2054,10270,12956,dinner_Paris
+V055,Milano,Med_Occidental,breakfast,Petit Dejeuner Express,254.6,854.25,67,2,102,356.6,212.9,breakfast_Milano
+V056,Milano,Med_Occidental,breakfast,Franco italian Breakfast,915,2836.5,122,4,275,1190,701,breakfast_Milano
+V057,Milano,Med_Occidental,breakfast,Le gran Matin,2494,6708,172,5,624,3118,1354,breakfast_Milano
+V058,Milano,Med_Occidental,dinner,Brasserie Basic,840,2688,56,2,336,1176,1512,dinner_Milano
+V059,Milano,Med_Occidental,dinner,Saveurs Franco-Italiennes,3108,9657,111,4,932,4040,5617,dinner_Milano
+V060,Milano,Med_Occidental,dinner,Haute Gastronomie Méd,8216,23226,158,5,2054,10270,12956,dinner_Milano
+V061,Roma,Med_Occidental,breakfast,Petit Dejeuner Express,254.6,854.25,67,2,102,356.6,212.9,breakfast_Roma
+V062,Roma,Med_Occidental,breakfast,Franco italian Breakfast,915,2836.5,122,4,275,1190,701,breakfast_Roma
+V063,Roma,Med_Occidental,breakfast,Le gran Matin,2494,6708,172,5,624,3118,1354,breakfast_Roma
+V064,Roma,Med_Occidental,dinner,Brasserie Basic,840,2688,56,2,336,1176,1512,dinner_Roma
+V065,Roma,Med_Occidental,dinner,Saveurs Franco-Italiennes,3108,9657,111,4,932,4040,5617,dinner_Roma
+V066,Roma,Med_Occidental,dinner,Haute Gastronomie Méd,8216,23226,158,5,2054,10270,12956,dinner_Roma
+V067,Venezia,Med_Occidental,breakfast,Petit Dejeuner Express,254.6,854.25,67,2,102,356.6,212.9,breakfast_Venezia
+V068,Venezia,Med_Occidental,breakfast,Franco italian Breakfast,915,2836.5,122,4,275,1190,701,breakfast_Venezia
+V069,Venezia,Med_Occidental,breakfast,Le gran Matin,2494,6708,172,5,624,3118,1354,breakfast_Venezia
+V070,Venezia,Med_Occidental,dinner,Brasserie Basic,840,2688,56,2,336,1176,1512,dinner_Venezia
+V071,Venezia,Med_Occidental,dinner,Saveurs Franco-Italiennes,3108,9657,111,4,932,4040,5617,dinner_Venezia
+V072,Venezia,Med_Occidental,dinner,Haute Gastronomie Méd,8216,23226,158,5,2054,10270,12956,dinner_Venezia
+V073,Berlin,Europa_Central,breakfast,Central Euro Morning,185.5,636,53,2,74,259.5,376.5,breakfast_Berlin
+V074,Berlin,Europa_Central,breakfast,Mitteleuropa Frühstück,651,2022.75,93,3,228,879,1143.75,breakfast_Berlin
+V075,Berlin,Europa_Central,breakfast,Grand Central Breakfast,1498.5,4162.5,111,5,375,1873.5,2289,breakfast_Berlin
+V076,Berlin,Europa_Central,dinner,Central Dine Basic,560,1800,40,2,224,784,1016,dinner_Berlin
+V077,Berlin,Europa_Central,dinner,Mitteleuropa Gourmet,2080,6480,80,4,624,2704,3776,dinner_Berlin
+V078,Berlin,Europa_Central,dinner,Central European Fine Dining,5760,16560,120,5,1440,7200,9360,dinner_Berlin
+V079,Amsterdam,Europa_Central,breakfast,Central Euro Morning,185.5,636,53,2,74,259.5,376.5,breakfast_Amsterdam
+V080,Amsterdam,Europa_Central,breakfast,Mitteleuropa Frühstück,651,2022.75,93,3,228,879,1143.75,breakfast_Amsterdam
+V081,Amsterdam,Europa_Central,breakfast,Grand Central Breakfast,1498.5,4162.5,111,5,375,1873.5,2289,breakfast_Amsterdam
+V082,Amsterdam,Europa_Central,dinner,Central Dine Basic,560,1800,40,2,224,784,1016,dinner_Amsterdam
+V083,Amsterdam,Europa_Central,dinner,Mitteleuropa Gourmet,2080,6480,80,4,624,2704,3776,dinner_Amsterdam
+V084,Amsterdam,Europa_Central,dinner,Central European Fine Dining,5760,16560,120,5,1440,7200,9360,dinner_Amsterdam
+V085,Budapest,Europa_Central,breakfast,Central Euro Morning,185.5,636,53,2,74,259.5,376.5,breakfast_Budapest
+V086,Budapest,Europa_Central,breakfast,Mitteleuropa Frühstück,651,2022.75,93,3,228,879,1143.75,breakfast_Budapest
+V087,Budapest,Europa_Central,breakfast,Grand Central Breakfast,1498.5,4162.5,111,5,375,1873.5,2289,breakfast_Budapest
+V088,Budapest,Europa_Central,dinner,Central Dine Basic,560,1800,40,2,224,784,1016,dinner_Budapest
+V089,Budapest,Europa_Central,dinner,Mitteleuropa Gourmet,2080,6480,80,4,624,2704,3776,dinner_Budapest
+V090,Budapest,Europa_Central,dinner,Central European Fine Dining,5760,16560,120,5,1440,7200,9360,dinner_Budapest
+V091,Atenas,Med_Oriental,breakfast,Eastern Med Morning,150,525,50,2,60,210,315,breakfast_Atenas
+V092,Atenas,Med_Oriental,breakfast,Aegean Sunrise Breakfas,572,1782,88,3,200,772,1010,breakfast_Atenas
+V093,Atenas,Med_Oriental,breakfast,Oriental Grand Breakfast,1550,4278,124,5,388,1938,2340,breakfast_Atenas
+V094,Atenas,Med_Oriental,dinner,Eastern Med Dine Basic,468,1512,36,2,187,655,857,dinner_Atenas
+V095,Atenas,Med_Oriental,dinner,Aegean Flavours Select,1776,5550,74,4,533,2309,3241,dinner_Atenas
+V096,Atenas,Med_Oriental,dinner,Ottoman & Hellenic Fine Dining,7314,20988,159,5,1829,9143,11845,dinner_Atenas
+V097,Ermoupolis,Med_Oriental,breakfast,Eastern Med Morning,150,525,50,2,60,210,315,breakfast_Ermoupolis
+V098,Ermoupolis,Med_Oriental,breakfast,Aegean Sunrise Breakfas,572,1782,88,3,200,772,1010,breakfast_Ermoupolis
+V099,Ermoupolis,Med_Oriental,breakfast,Oriental Grand Breakfast,1550,4278,124,5,388,1938,2340,breakfast_Ermoupolis
+V100,Ermoupolis,Med_Oriental,dinner,Eastern Med Dine Basic,468,1512,36,2,187,655,857,dinner_Ermoupolis
+V101,Ermoupolis,Med_Oriental,dinner,Aegean Flavours Select,1776,5550,74,4,533,2309,3241,dinner_Ermoupolis
+V102,Ermoupolis,Med_Oriental,dinner,Ottoman & Hellenic Fine Dining,7314,20988,159,5,1829,9143,11845,dinner_Ermoupolis
+V103,Istanbul,Med_Oriental,breakfast,Eastern Med Morning,150,525,50,2,60,210,315,breakfast_Istanbul
+V104,Istanbul,Med_Oriental,breakfast,Aegean Sunrise Breakfas,572,1782,88,3,200,772,1010,breakfast_Istanbul
+V105,Istanbul,Med_Oriental,breakfast,Oriental Grand Breakfast,1550,4278,124,5,388,1938,2340,breakfast_Istanbul
+V106,Istanbul,Med_Oriental,dinner,Eastern Med Dine Basic,468,1512,36,2,187,655,857,dinner_Istanbul
+V107,Istanbul,Med_Oriental,dinner,Aegean Flavours Select,1776,5550,74,4,533,2309,3241,dinner_Istanbul
+V108,Istanbul,Med_Oriental,dinner,Ottoman & Hellenic Fine Dining,7314,20988,159,5,1829,9143,11845,dinner_Istanbul
+V109,La_Valeta,Med_Oriental,breakfast,Eastern Med Morning,150,525,50,2,60,210,315,breakfast_La_Valeta
+V110,La_Valeta,Med_Oriental,breakfast,Aegean Sunrise Breakfas,572,1782,88,3,200,772,1010,breakfast_La_Valeta
+V111,La_Valeta,Med_Oriental,breakfast,Oriental Grand Breakfast,1550,4278,124,5,388,1938,2340,breakfast_La_Valeta
+V112,La_Valeta,Med_Oriental,dinner,Eastern Med Dine Basic,468,1512,36,2,187,655,857,dinner_La_Valeta
+V113,La_Valeta,Med_Oriental,dinner,Aegean Flavours Select,1776,5550,74,4,533,2309,3241,dinner_La_Valeta
+V114,La_Valeta,Med_Oriental,dinner,Ottoman & Hellenic Fine Dining,7314,20988,159,5,1829,9143,11845,dinner_La_Valeta
+V115,Malaga,Iberica,activity,Visitas Ibéricas Select,550,1725,25,4,264,814,911,activity_Malaga
+V116,Malaga,Iberica,activity,Duende Flamenco Select,616,1914,22,4,352,968,946,activity_Malaga
+V117,Malaga,Iberica,activity,Vinos de Málaga Tours,320,1008,16,3,231,551,457,activity_Malaga
+V118,Madrid,Iberica,activity,Arte Madrid Select,672,2184,28,4,431,1103,1081,activity_Madrid
+V119,Madrid,Iberica,activity,Sabores de Madrid,484,1584,22,3,323,807,777,activity_Madrid
+V120,Madrid,Iberica,activity,Catas de España Select,342,1140,19,3,214,556,584,activity_Madrid
+V121,Barcelona,Iberica,activity,Barcelona Select Tours,910,2887.5,35,4,538,1448,1439.5,activity_Barcelona
+V122,Barcelona,Iberica,activity,Barcelona Food Tours,440,1380,20,3,323,763,617,activity_Barcelona
+V123,Barcelona,Iberica,activity,Penedès Wine Select,520,1680,20,4,312,832,848,activity_Barcelona
+V124,Mallorca,Iberica,activity,Mallorca Select Tours,500,1650,25,3,259,759,891,activity_Mallorca
+V125,Mallorca,Iberica,activity,Mallorca Sailing Club,792,2376,22,4,378,1170,1206,activity_Mallorca
+V126,Mallorca,Iberica,activity,Binissalem Wine Select,374,1224,17,3,246,620,604,activity_Mallorca
+V127,Lisboa,Iberica,activity,Descobertas Portugal,484,1584,22,3,323,807,777,activity_Lisboa
+V128,Lisboa,Iberica,activity,Quintas de Portugal,550,1800,25,3,254,804,996,activity_Lisboa
+V129,Lisboa,Iberica,activity,Lisboa Heritage Tours,324,1080,18,3,258,582,498,activity_Lisboa
+V130,Albufeira,Iberica,activity,Algarve Sea Adventures,500,1650,20,4,375,875,775,activity_Albufeira
+V131,Albufeira,Iberica,activity,Algarve 4x4 Select,420,1350,15,3,392,812,538,activity_Albufeira
+V132,Albufeira,Iberica,activity,Oceano Vivo Tours,352,1122,11,4,461,813,309,activity_Albufeira
+V133,Marseille,Med_Occidental,activity,Calanques Select Tours,392,1260,14,4,361,753,507,activity_Marseille
+V134,Marseille,Med_Occidental,activity,Saveurs de Provence,612,1836,18,4,275,887,949,activity_Marseille
+V135,Lyon,Med_Occidental,activity,Gastronomie Lyon Select,572,1848,22,4,328,900,948,activity_Lyon
+V136,Lyon,Med_Occidental,activity,Vignobles du Rhône Select,456,1482,19,3,252,708,774,activity_Lyon
+V137,Lyon,Med_Occidental,activity,Lyon Heritage Tours,270,900,15,3,265,535,365,activity_Lyon
+V138,Paris,Med_Occidental,activity,Découverte Paris Select,1360,4080,40,4,887,2247,1833,activity_Paris
+V139,Paris,Med_Occidental,activity,Art Paris Select Tours,1092,3276,26,4,781,1873,1403,activity_Paris
+V140,Paris,Med_Occidental,activity,Les Saveurs de France,598,1932,23,4,429,1027,905,activity_Paris
+V141,Milano,Med_Occidental,activity,Bella Milano Select,840,2790,30,4,336,1176,1614,activity_Milano
+V142,Milano,Med_Occidental,activity,Arte Italiana Select,720,2220,20,4,367,1087,1133,activity_Milano
+V143,Milano,Med_Occidental,activity,Spritz & Go Milano,540,1782,27,3,364,904,878,activity_Milano
+V144,Roma,Med_Occidental,activity,Bella Italia Experiences,700,2175,25,4,546,1246,929,activity_Roma
+V145,Roma,Med_Occidental,activity,Roma Sacra Select,880,2640,20,4,726,1606,1034,activity_Roma
+V146,Roma,Med_Occidental,activity,Sapori di Roma,476,1530,17,4,286,762,768,activity_Roma
+V147,Venezia,Med_Occidental,activity,Venezia Select Tours,800,2460,20,4,564,1364,1096,activity_Venezia
+V148,Venezia,Med_Occidental,activity,Arte Vetro Venezia,450,1440,15,4,342,792,648,activity_Venezia
+V149,Venezia,Med_Occidental,activity,Sapori di Venezia,330,1080,15,3,254,584,496,activity_Venezia
+V150,Berlin,Europa_Central,activity,Berlin & Beyond Tours,440,1452,22,3,427,867,585,activity_Berlin
+V151,Berlin,Europa_Central,activity,Craft Beer Berlin Select,352,1152,16,3,377,729,423,activity_Berlin
+V152,Berlin,Europa_Central,activity,Berlin Art Select,396,1296,18,4,277,673,623,activity_Berlin
+V153,Budapest,Europa_Central,activity,Magyar Élmények Select,360,1215,15,4,374,734,481,activity_Budapest
+V154,Budapest,Europa_Central,activity,Budapest Spa Select,494,1596,19,4,468,962,634,activity_Budapest
+V155,Budapest,Europa_Central,activity,Tokaj Wine Select,264,864,12,3,239,503,361,activity_Budapest
+V156,Amsterdam,Europa_Central,activity,Dutch Heritage Tours,484,1584,22,4,422,906,678,activity_Amsterdam
+V157,Amsterdam,Europa_Central,activity,Holland Cycling Tours,384,1248,16,4,367,751,497,activity_Amsterdam
+V158,Amsterdam,Europa_Central,activity,Dutch Masters Select,308,990,11,4,353,661,329,activity_Amsterdam
+V159,Atenas,Med_Oriental,activity,Aegean Heritage Tours,648,2106,27,4,522,1170,936,activity_Atenas
+V160,Atenas,Med_Oriental,activity,Athina Food Tours,390,1260,15,4,273,663,597,activity_Atenas
+V161,Atenas,Med_Oriental,activity,Athens Sunset Selec,330,1056,11,4,378,708,348,activity_Atenas
+V162,Ermoupolis,Med_Oriental,activity,Aegean Sailing Select,600,1845,15,4,336,936,909,activity_Ermoupolis
+V163,Ermoupolis,Med_Oriental,activity,Cyclades Tastes Select,220,726,11,3,168,388,338,activity_Ermoupolis
+V164,Istanbul,Med_Oriental,activity,Bosphorus Heritage Tours,312,1008,12,4,499,811,197,activity_Istanbul
+V165,Istanbul,Med_Oriental,activity,Istanbul Market Tours,396,1320,22,3,340,736,584,activity_Istanbul
+V166,Istanbul,Med_Oriental,activity,Ottoman Spa Select,476,1530,17,4,370,846,684,activity_Istanbul
+V167,Istanbul,Med_Oriental,activity,Anatolian Food Tours,390,1260,15,4,281,671,589,activity_Istanbul
+V168,La_Valeta,Med_Oriental,activity,Knights Heritage Malta,300,990,15,4,228,528,462,activity_La_Valeta
+V169,La_Valeta,Med_Oriental,activity,Blue Lagoon Select Malta,338,1092,13,4,343,681,411,activity_La_Valeta
+V170,La_Valeta,Med_Oriental,activity,Meridiana Wine Select,144,480,8,3,158,302,178,activity_La_Valeta
