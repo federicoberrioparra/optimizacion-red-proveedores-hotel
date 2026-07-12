@@ -130,6 +130,3 @@ El análisis detallado — planteamiento del caso, recomendación al cliente, la
 Fede — Grau en Empresa i Tecnologia, UAB
 Proyecto académico — Investigación Operativa, Curso 2025–2026
 
----
-
-*Este proyecto forma parte de mi portafolio de análisis de datos y optimización aplicada a negocio.*
